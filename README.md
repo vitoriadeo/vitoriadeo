@@ -2,7 +2,7 @@
 
 ### Sobre mim
 - 🔭 Atualmente estou trabalhando no meu projeto pessoal [Trago Notícias](https://github.com/vitoriadeo/trago-noticias).
-- 🌱 Estou focado(a) em aprender mais sobre Python/Flask, devweb e banco de dados.
+- 🌱 Estou focada em aprender mais sobre Python/Flask, devweb e banco de dados.
 - 🤔 Procuro ajuda com Testes automatizados em Python.
 - 😄 Pronomes: ela/dela
 - 📫 Como me encontrar? Você consegue me achar nas sociais abaixo!
