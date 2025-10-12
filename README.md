@@ -8,7 +8,7 @@
 - 📫 Como me encontrar? Você consegue me achar nas sociais abaixo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriadeo/)
-[![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://vvfinds.neocities.org/)
+[![Neocities](https://img.shields.io/badge/Neocities-FF4088?style=for-the-badge&logo=Neocities&logoColor=white)](https://vvfinds.neocities.org/)
 [![Yahoo](https://img.shields.io/badge/Yahoo-410093?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:vitoriadeo@yahoo.com)
 ---
 
