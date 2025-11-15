@@ -1,7 +1,7 @@
 # Olá, sou Vitória! 👋🏽
 
 ### Sobre mim
-- 🔭 Atualmente estou trabalhando no meu projeto pessoal [Trago Notícias](https://github.com/vitoriadeo/trago-noticias).
+- 🔭 Atualmente estou trabalhando no meu projeto pessoal [Checkout Transparente](https://github.com/vitoriadeo/checkout-transparente).
 - 🌱 Estou focada em aprender mais sobre Python/Flask, devweb e banco de dados.
 - 📫 Você consegue me achar nas sociais abaixo!
 
