@@ -17,11 +17,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-[![Estatísticas do GitHub de (vitoriadeo)](https://github-readme-stats.vercel.app/api?username=vitoriadeo&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadeo&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
